@@ -13,3 +13,4 @@
 /home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/refint/AccesoDatos.dll
 /home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/AccesoDatos.pdb
 /home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/ref/AccesoDatos.dll
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/AccesoDatos.sourcelink.json

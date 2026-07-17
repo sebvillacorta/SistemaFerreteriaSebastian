@@ -2,10 +2,10 @@ using Negocio; // Permite conectar con la capa de negocio
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 1. Lee la cadena de conexión desde el appsettings.json
+// Lee la cadena de conexión desde el appsettings.json
 var cadena = builder.Configuration.GetConnectionString("DefaultConnection")!;
 
-// 2. Registra la capa de negocio (que a su vez registra el acceso a datos)
+// Registra la capa de negocio (que a su vez registra el acceso a datos)
 builder.Services.AddLogicaNegocio(cadena);
 
 // Add services to the container.

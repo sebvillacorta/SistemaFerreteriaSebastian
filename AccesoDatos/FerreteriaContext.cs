@@ -1,9 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using Entidades; // Conecta con tus clases Producto, Cliente, Venta y DetalleVenta
+using Entidades; 
 
 public class FerreteriaContext : DbContext
 {
-    // Mapeo de las tablas de la base de datos
     public DbSet<Producto> Productos { get; set; }
     public DbSet<Cliente> Clientes { get; set; }
     public DbSet<Venta> Ventas { get; set; }
@@ -13,19 +12,28 @@ public class FerreteriaContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder b)
     {
-        // Relación: Venta -> Cliente (IdCliente es la clave foránea)
+        // 1. Definir Llaves Primarias (PK) explícitamente
+        b.Entity<Cliente>().HasKey(c => c.IdCliente);
+        b.Entity<Producto>().HasKey(p => p.IdProducto);
+        b.Entity<Venta>().HasKey(v => v.IdVenta);
+        
+        // (Nota: Si tu clase DetalleVenta usa otro nombre de llave primaria, cámbialo aquí)
+        b.Entity<DetalleVenta>().HasKey(d => d.IdDetalle); 
+
+        // 2. Definir Llaves Foráneas (Relaciones)
+        // Relación: Venta -> Cliente
         b.Entity<Venta>()
             .HasOne<Cliente>()
             .WithMany()
             .HasForeignKey(v => v.IdCliente);
 
-        // Relación: DetalleVenta -> Venta (IdVenta es la clave foránea)
+        // Relación: DetalleVenta -> Venta
         b.Entity<DetalleVenta>()
             .HasOne<Venta>()
             .WithMany()
             .HasForeignKey(d => d.IdVenta);
 
-        // Relación: DetalleVenta -> Producto (IdProducto es la clave foránea)
+        // Relación: DetalleVenta -> Producto
         b.Entity<DetalleVenta>()
             .HasOne<Producto>()
             .WithMany()
