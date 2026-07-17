@@ -1,0 +1,11 @@
+/home/revost/Documentos/proyecto final modificado/Entidades/bin/Debug/net10.0/Entidades.deps.json
+/home/revost/Documentos/proyecto final modificado/Entidades/bin/Debug/net10.0/Entidades.dll
+/home/revost/Documentos/proyecto final modificado/Entidades/bin/Debug/net10.0/Entidades.pdb
+/home/revost/Documentos/proyecto final modificado/Entidades/obj/Debug/net10.0/Entidades.GeneratedMSBuildEditorConfig.editorconfig
+/home/revost/Documentos/proyecto final modificado/Entidades/obj/Debug/net10.0/Entidades.AssemblyInfoInputs.cache
+/home/revost/Documentos/proyecto final modificado/Entidades/obj/Debug/net10.0/Entidades.AssemblyInfo.cs
+/home/revost/Documentos/proyecto final modificado/Entidades/obj/Debug/net10.0/Entidades.csproj.CoreCompileInputs.cache
+/home/revost/Documentos/proyecto final modificado/Entidades/obj/Debug/net10.0/Entidades.dll
+/home/revost/Documentos/proyecto final modificado/Entidades/obj/Debug/net10.0/refint/Entidades.dll
+/home/revost/Documentos/proyecto final modificado/Entidades/obj/Debug/net10.0/Entidades.pdb
+/home/revost/Documentos/proyecto final modificado/Entidades/obj/Debug/net10.0/ref/Entidades.dll

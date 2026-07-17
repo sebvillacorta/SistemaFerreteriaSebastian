@@ -1,0 +1,15 @@
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/bin/Debug/net10.0/AccesoDatos.deps.json
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/bin/Debug/net10.0/AccesoDatos.dll
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/bin/Debug/net10.0/AccesoDatos.pdb
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/bin/Debug/net10.0/Entidades.dll
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/bin/Debug/net10.0/Entidades.pdb
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/AccesoDatos.csproj.AssemblyReference.cache
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/AccesoDatos.AssemblyInfoInputs.cache
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/AccesoDatos.AssemblyInfo.cs
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/AccesoDatos.csproj.CoreCompileInputs.cache
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/AccesoDa.B2719C34.Up2Date
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/AccesoDatos.dll
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/refint/AccesoDatos.dll
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/AccesoDatos.pdb
+/home/revost/Documentos/proyecto final modificado/AccesoDatos/obj/Debug/net10.0/ref/AccesoDatos.dll

@@ -1,0 +1,17 @@
+/home/revost/Documentos/proyecto final modificado/Negocio/bin/Debug/net10.0/Negocio.deps.json
+/home/revost/Documentos/proyecto final modificado/Negocio/bin/Debug/net10.0/Negocio.dll
+/home/revost/Documentos/proyecto final modificado/Negocio/bin/Debug/net10.0/Negocio.pdb
+/home/revost/Documentos/proyecto final modificado/Negocio/bin/Debug/net10.0/AccesoDatos.dll
+/home/revost/Documentos/proyecto final modificado/Negocio/bin/Debug/net10.0/Entidades.dll
+/home/revost/Documentos/proyecto final modificado/Negocio/bin/Debug/net10.0/Entidades.pdb
+/home/revost/Documentos/proyecto final modificado/Negocio/bin/Debug/net10.0/AccesoDatos.pdb
+/home/revost/Documentos/proyecto final modificado/Negocio/obj/Debug/net10.0/Negocio.csproj.AssemblyReference.cache
+/home/revost/Documentos/proyecto final modificado/Negocio/obj/Debug/net10.0/Negocio.GeneratedMSBuildEditorConfig.editorconfig
+/home/revost/Documentos/proyecto final modificado/Negocio/obj/Debug/net10.0/Negocio.AssemblyInfoInputs.cache
+/home/revost/Documentos/proyecto final modificado/Negocio/obj/Debug/net10.0/Negocio.AssemblyInfo.cs
+/home/revost/Documentos/proyecto final modificado/Negocio/obj/Debug/net10.0/Negocio.csproj.CoreCompileInputs.cache
+/home/revost/Documentos/proyecto final modificado/Negocio/obj/Debug/net10.0/Negocio.csproj.Up2Date
+/home/revost/Documentos/proyecto final modificado/Negocio/obj/Debug/net10.0/Negocio.dll
+/home/revost/Documentos/proyecto final modificado/Negocio/obj/Debug/net10.0/refint/Negocio.dll
+/home/revost/Documentos/proyecto final modificado/Negocio/obj/Debug/net10.0/Negocio.pdb
+/home/revost/Documentos/proyecto final modificado/Negocio/obj/Debug/net10.0/ref/Negocio.dll
